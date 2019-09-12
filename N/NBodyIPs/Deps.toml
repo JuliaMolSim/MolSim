@@ -1,0 +1,11 @@
+["0.1"]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
+KahanSummation = "8e2b3108-d4c1-50be-a7a2-16352aec75c3"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NeighbourLists = "2fcf5ba9-9ed4-57cf-b73f-ff513e316b9c"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+StaticPolynomials = "62e018b1-6e46-5407-a5a7-97d4fbcae734"

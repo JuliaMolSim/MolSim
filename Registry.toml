@@ -5,5 +5,6 @@ uuid = "f2381e96-d55a-11e9-1105-d3cd06c5d827"
 
 [packages]
 07029e18-8f70-11e9-35ce-2d4df590abdc = { name = "SHIPs", path = "S/SHIPs" }
+091ff95d-640b-5850-a1f5-612e1cfea893 = { name = "NBodyIPs", path = "N/NBodyIPs" }
 37d5470d-be39-5372-83c6-3e18ddf26f4a = { name = "JuLIPMaterials", path = "J/JuLIPMaterials" }
 9c0324d0-6785-59b7-97dc-0c015a243b66 = { name = "SKTB", path = "S/SKTB" }
