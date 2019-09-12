@@ -1,0 +1,4 @@
+name = "LibAtoms"
+uuid = "f2381e96-d55a-11e9-1105-d3cd06c5d827"
+repo = "https://github.com/cortner/LibAtoms.jl.git"
+description = "Anything JuLIP-related"
