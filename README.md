@@ -12,3 +12,5 @@ The following packages are currently registered:
 * SHIPs.jl
 * SKTB.jl
 * JuLIPMaterials.jl
+* NBodyIPs.jl
+* IPFitting.jl
