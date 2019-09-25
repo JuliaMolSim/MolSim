@@ -1,0 +1,4 @@
+authors = ["Christoph Ortner <c.ortner@warwick.ac.uk>"]
+name = "LibAtomsReg"
+repo = "https://github.com/cortner/LibAtomsReg.jl"
+uuid = "290a2eb2-df6c-11e9-3da6-89062bb4f628"

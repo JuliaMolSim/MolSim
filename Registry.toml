@@ -6,6 +6,7 @@ uuid = "f2381e96-d55a-11e9-1105-d3cd06c5d827"
 [packages]
 07029e18-8f70-11e9-35ce-2d4df590abdc = { name = "SHIPs", path = "S/SHIPs" }
 091ff95d-640b-5850-a1f5-612e1cfea893 = { name = "NBodyIPs", path = "N/NBodyIPs" }
+290a2eb2-df6c-11e9-3da6-89062bb4f628 = { name = "LibAtomsReg", path = "L/LibAtomsReg" }
 3002bd4c-79e4-52ce-b924-91256dde4e52 = { name = "IPFitting", path = "I/IPFitting" }
 37d5470d-be39-5372-83c6-3e18ddf26f4a = { name = "JuLIPMaterials", path = "J/JuLIPMaterials" }
 945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }
