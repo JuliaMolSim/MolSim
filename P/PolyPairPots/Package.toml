@@ -1,0 +1,4 @@
+authors = ["Christoph Ortner <c.ortner@warwick.ac.uk>"]
+name = "PolyPairPots"
+repo = "https://github.com/cortner/PolyPairPots.jl"
+uuid = "500c3504-e044-11e9-3381-317db4d8b740"
