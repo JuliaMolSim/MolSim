@@ -12,3 +12,4 @@ uuid = "f2381e96-d55a-11e9-1105-d3cd06c5d827"
 500c3504-e044-11e9-3381-317db4d8b740 = { name = "PolyPairPots", path = "P/PolyPairPots" }
 945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }
 9c0324d0-6785-59b7-97dc-0c015a243b66 = { name = "SKTB", path = "S/SKTB" }
+c2548312-a4fd-5d16-85d3-38ef7dd54d98 = { name = "Isaac", path = "I/Isaac" }
