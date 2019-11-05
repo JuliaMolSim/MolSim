@@ -1,0 +1,4 @@
+authors = ["Christoph Ortner <c.ortner@warwick.ac.uk>"]
+name = "MolSimReg"
+repo = "https://github.com/JuliaMolSim/MolSimReg.jl.git"
+uuid = "cca83836-ffea-11e9-3fbe-75739543cd8c"
