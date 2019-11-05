@@ -36,5 +36,10 @@ Suppose now that we want to register a new version of `JuLIP.jl`:
 
 ## Remarks
 
+* A basic management tool for the `MolSim` registry is provided by [`MolSimReg.jl`](https://github.com/JuliaMolSim/MolSimReg.jl); With that package, Step 4 above becomes
+```{julia}
+using MolSimReg, JuLIP
+MolSimReg.register(JuLIP)
+```
 * If you don't have push access or are unsure about merging the updated registry, then make a PR. (Maybe this step should be automated at some point.)
 * Sometimes, I found that the main `v1.1` environment is incompatible with the package, and `using IPFitting` (e.g.) will fail. In that case, one first activates the package's environment  first.
