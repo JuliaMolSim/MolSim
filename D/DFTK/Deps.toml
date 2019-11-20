@@ -14,3 +14,8 @@ PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0.0.2"]
+AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
+GenericLinearAlgebra = "14197337-ba66-59df-a3e3-ca00e7dcff7a"
+Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
