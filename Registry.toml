@@ -11,6 +11,7 @@ uuid = "32ac3b6c-ffe8-11e9-1ee5-675a63b9b27b"
 37d5470d-be39-5372-83c6-3e18ddf26f4a = { name = "JuLIPMaterials", path = "J/JuLIPMaterials" }
 500c3504-e044-11e9-3381-317db4d8b740 = { name = "PolyPairPots", path = "P/PolyPairPots" }
 51974c44-a7ed-5088-b8be-3e78c8ba416c = { name = "ASE", path = "A/ASE" }
+6d8061eb-fedd-4e97-910f-b56e75c6ebb1 = { name = "PoSH", path = "P/PoSH" }
 945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }
 9c0324d0-6785-59b7-97dc-0c015a243b66 = { name = "SKTB", path = "S/SKTB" }
 acf6eb54-70d9-11e9-0013-234b7a5f5337 = { name = "DFTK", path = "D/DFTK" }
