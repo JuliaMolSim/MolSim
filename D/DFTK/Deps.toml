@@ -22,8 +22,15 @@ AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
 GenericLinearAlgebra = "14197337-ba66-59df-a3e3-ca00e7dcff7a"
 Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
 
+["0.0.3"]
+Registrator = "4418983a-e44d-11e8-3aec-9789530b3b3e"
+
 ["0.0.3-0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 Memoization = "6fafb56a-5788-4b4e-91ca-c0cea6611c73"
-Registrator = "4418983a-e44d-11e8-3aec-9789530b3b3e"
+
+["0.0.4-0"]
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
