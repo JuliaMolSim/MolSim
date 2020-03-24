@@ -16,4 +16,3 @@ uuid = "32ac3b6c-ffe8-11e9-1ee5-675a63b9b27b"
 9c0324d0-6785-59b7-97dc-0c015a243b66 = { name = "SKTB", path = "S/SKTB" }
 acf6eb54-70d9-11e9-0013-234b7a5f5337 = { name = "DFTK", path = "D/DFTK" }
 c2548312-a4fd-5d16-85d3-38ef7dd54d98 = { name = "Isaac", path = "I/Isaac" }
-cca83836-ffea-11e9-3fbe-75739543cd8c = { name = "MolSimReg", path = "M/MolSimReg" }
