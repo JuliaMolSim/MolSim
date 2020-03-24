@@ -10,10 +10,11 @@ Afterwards use the normal package manager commands to add, remove, dev, etc the 
 
 ## Registering a Package or a new version
 
-Registering a new package or a new version uses the same process. First we install
-[`LocalRegistry.jl`](https://github.com/GunnarFarneback/LocalRegistry.jl), which can be installed via
-```
-] add https://github.com/GunnarFarneback/LocalRegistry.jl
+Both registering a new package or a new version uses
+[`LocalRegistry`](https://github.com/GunnarFarneback/LocalRegistry.jl).
+This needs to be installed first:
+```julia
+] add LocalRegistry
 ```
 
 Suppose now that we want to register a new version of `JuLIP.jl`:
@@ -21,17 +22,16 @@ Suppose now that we want to register a new version of `JuLIP.jl`:
 2. make the changes to the package
 3. Bump the version number, by manually editing `Project.toml`, commit and push.
 4. Now the following sequence of commands will register the new version in the `MolSim` registry.
-   ```{julia}
+   ```julia
    using LocalRegistry
    using JuLIP
-   regpath = joinpath(homedir(), ".julia", "registries", "MolSim")
-   register(JuLIP, regpath)
+   register(JuLIP, "MolSim")
    ```
    This edits the registry files and commits the changes.
    If the package has already been registered before (i.e. this is a version update),
    then a simple `register(<packagename>)` is sufficient.
 5. Finally, we need to push the registry
-   ```{bash}
+   ```bash
    cd ~/.julia/registries/MolSim
    git push
    ```
