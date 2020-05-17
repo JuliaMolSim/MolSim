@@ -15,10 +15,12 @@ ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
-Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+["0-0.3"]
+Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
 
 ["0.0"]
 NeighbourLists = "2fcf5ba9-9ed4-57cf-b73f-ff513e316b9c"
