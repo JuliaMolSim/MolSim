@@ -19,5 +19,9 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 SuiteSparse = "4607b0f0-06f3-5cda-b6b1-a6196a1729e9"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
+["0.11-0"]
+DataDeps = "124859b0-ceae-595e-8997-d05f6a7a8dfe"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+
 ["0.9.8-0"]
 ZipFile = "a5390f91-8eb1-5f08-bee0-b1d1ffed6cea"
