@@ -6,6 +6,7 @@ description = "Julia Registry for Molecular Simulation"
 [packages]
 07029e18-8f70-11e9-35ce-2d4df590abdc = { name = "SHIPs", path = "S/SHIPs" }
 091ff95d-640b-5850-a1f5-612e1cfea893 = { name = "NBodyIPs", path = "N/NBodyIPs" }
+14bae519-eb20-449c-a949-9c58ed33163e = { name = "ACEbase", path = "A/ACEbase" }
 2fcf5ba9-9ed4-57cf-b73f-ff513e316b9c = { name = "NeighbourLists", path = "N/NeighbourLists" }
 3002bd4c-79e4-52ce-b924-91256dde4e52 = { name = "IPFitting", path = "I/IPFitting" }
 37d5470d-be39-5372-83c6-3e18ddf26f4a = { name = "JuLIPMaterials", path = "J/JuLIPMaterials" }
