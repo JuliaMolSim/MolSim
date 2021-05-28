@@ -1,0 +1,3 @@
+name = "ACEatoms"
+uuid = "1e34e032-0b37-4839-a012-196b35408c3c"
+repo = "https://github.com/ACEsuit/ACEatoms.jl.git"
