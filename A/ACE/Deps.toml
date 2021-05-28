@@ -24,5 +24,10 @@ ZipFile = "a5390f91-8eb1-5f08-bee0-b1d1ffed6cea"
 ACEbase = "14bae519-eb20-449c-a949-9c58ed33163e"
 ProfileView = "c46f51b8-102a-5cf2-8d2c-8597cb0e0da7"
 
+["0.10.2-0"]
+ChainRules = "082447d4-558c-5d27-93f4-14fc19e9eca2"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
 ["0.8.3-0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
