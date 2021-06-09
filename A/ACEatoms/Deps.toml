@@ -5,3 +5,7 @@ JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0.0.5-0"]
+NamedTupleTools = "d9ec5142-1e00-5aa0-9d6a-321866360f50"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
