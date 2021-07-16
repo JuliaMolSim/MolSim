@@ -28,7 +28,7 @@ NeighbourLists = "2fcf5ba9-9ed4-57cf-b73f-ff513e316b9c"
 ["0.4.1-0"]
 StringDistances = "88034a9c-02f8-509d-84a9-84ec65e18404"
 
-["0.5-0"]
+["0.4.2-0"]
 ACE = "3e8ccfd2-c8b0-11ea-32f1-f3a5990fd77a"
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
