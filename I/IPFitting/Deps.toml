@@ -38,3 +38,6 @@ Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
 PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+
+["0.5.1-0"]
+ACEbase = "14bae519-eb20-449c-a949-9c58ed33163e"
