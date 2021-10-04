@@ -38,5 +38,8 @@ Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 ["0.10.4-0"]
 NamedTupleTools = "d9ec5142-1e00-5aa0-9d6a-321866360f50"
 
+["0.12.9-0"]
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
 ["0.8.3-0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
