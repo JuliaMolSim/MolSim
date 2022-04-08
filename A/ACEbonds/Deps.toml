@@ -1,0 +1,8 @@
+[0]
+ACE = "3e8ccfd2-c8b0-11ea-32f1-f3a5990fd77a"
+ACEatoms = "1e34e032-0b37-4839-a012-196b35408c3c"
+ACEbase = "14bae519-eb20-449c-a949-9c58ed33163e"
+JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NamedTupleTools = "d9ec5142-1e00-5aa0-9d6a-321866360f50"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
