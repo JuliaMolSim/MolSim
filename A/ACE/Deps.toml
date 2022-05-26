@@ -43,6 +43,10 @@ DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 LegibleLambdas = "f1f30506-32fe-5131-bd72-7c197988f9e5"
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 
+["0.12.41-0"]
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"
+
 ["0.12.9-0"]
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
