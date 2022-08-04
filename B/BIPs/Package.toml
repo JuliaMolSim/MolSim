@@ -1,0 +1,3 @@
+name = "BIPs"
+uuid = "76fa5280-f995-49fd-9918-e917225eb296"
+repo = "git@github.com:ACEsuit/BIPs.jl.git"
