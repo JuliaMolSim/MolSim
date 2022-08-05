@@ -20,6 +20,7 @@ description = "Julia Registry for Molecular Simulation"
 945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }
 9c0324d0-6785-59b7-97dc-0c015a243b66 = { name = "SKTB", path = "S/SKTB" }
 acf6eb54-70d9-11e9-0013-234b7a5f5337 = { name = "DFTK", path = "D/DFTK" }
+ad31a8ef-59f5-4a01-b543-a85c2f73e95c = { name = "ACEfit", path = "A/ACEfit" }
 c2548312-a4fd-5d16-85d3-38ef7dd54d98 = { name = "Isaac", path = "I/Isaac" }
 d0dfcdf4-f9d4-4d39-8ac7-72ac73934171 = { name = "ACEbonds", path = "A/ACEbonds" }
 e3f9bc04-086e-409a-ba78-e9769fe067bb = { name = "ACE1", path = "A/ACE1" }
