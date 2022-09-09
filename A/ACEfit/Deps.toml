@@ -1,9 +1,7 @@
 [0]
-ACEbase = "14bae519-eb20-449c-a949-9c58ed33163e"
 ExtXYZ = "352459e4-ddd7-4360-8937-99dcb397b478"
 IterativeSolvers = "42fd0dbc-a981-5370-80f2-aaf504508153"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
-JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 LowRankApprox = "898213cb-b102-5a47-900c-97e73b919f73"
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
@@ -11,3 +9,11 @@ PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0-0.0.1"]
+ACEbase = "14bae519-eb20-449c-a949-9c58ed33163e"
+JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
+
+["0.0.2-0"]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+SharedArrays = "1a1011a3-84de-559e-8e89-a11a2f7dc383"
