@@ -1,9 +1,11 @@
 [0]
 ACE1 = "e3f9bc04-086e-409a-ba78-e9769fe067bb"
-IPFitting = "3002bd4c-79e4-52ce-b924-91256dde4e52"
 JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
+["0.0"]
+IPFitting = "3002bd4c-79e4-52ce-b924-91256dde4e52"
 
 ["0.0.2-0"]
 LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
@@ -13,3 +15,9 @@ ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
+
+["0.2-0"]
+ACEfit = "ad31a8ef-59f5-4a01-b543-a85c2f73e95c"
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+ExtXYZ = "352459e4-ddd7-4360-8937-99dcb397b478"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
