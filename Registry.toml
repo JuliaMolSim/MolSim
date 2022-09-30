@@ -4,6 +4,7 @@ repo = "https://github.com/JuliaMolSim/MolSim.git"
 description = "Julia Registry for Molecular Simulation"
 
 [packages]
+03c4bcba-a943-47e9-bfa1-b1661fc2974f = { name = "Polynomials4ML", path = "P/Polynomials4ML" }
 07029e18-8f70-11e9-35ce-2d4df590abdc = { name = "SHIPs", path = "S/SHIPs" }
 091ff95d-640b-5850-a1f5-612e1cfea893 = { name = "NBodyIPs", path = "N/NBodyIPs" }
 14bae519-eb20-449c-a949-9c58ed33163e = { name = "ACEbase", path = "A/ACEbase" }
