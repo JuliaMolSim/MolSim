@@ -5,7 +5,6 @@ description = "Julia Registry for Molecular Simulation"
 
 [packages]
 03c4bcba-a943-47e9-bfa1-b1661fc2974f = { name = "Polynomials4ML", path = "P/Polynomials4ML" }
-07029e18-8f70-11e9-35ce-2d4df590abdc = { name = "SHIPs", path = "S/SHIPs" }
 091ff95d-640b-5850-a1f5-612e1cfea893 = { name = "NBodyIPs", path = "N/NBodyIPs" }
 14bae519-eb20-449c-a949-9c58ed33163e = { name = "ACEbase", path = "A/ACEbase" }
 1e34e032-0b37-4839-a012-196b35408c3c = { name = "ACEatoms", path = "A/ACEatoms" }
@@ -16,7 +15,6 @@ description = "Julia Registry for Molecular Simulation"
 500c3504-e044-11e9-3381-317db4d8b740 = { name = "PolyPairPots", path = "P/PolyPairPots" }
 51974c44-a7ed-5088-b8be-3e78c8ba416c = { name = "ASE", path = "A/ASE" }
 658cac36-ff0f-48ad-967c-110375d98c9d = { name = "ObjectPools", path = "O/ObjectPools" }
-6d8061eb-fedd-4e97-910f-b56e75c6ebb1 = { name = "PoSH", path = "P/PoSH" }
 76fa5280-f995-49fd-9918-e917225eb296 = { name = "BIPs", path = "B/BIPs" }
 8c4e8d19-0bd6-4234-8309-7210652e3178 = { name = "ACE1pack", path = "A/ACE1pack" }
 945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }

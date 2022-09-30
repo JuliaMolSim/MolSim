@@ -1,3 +1,3 @@
 name = "Polynomials4ML"
 uuid = "03c4bcba-a943-47e9-bfa1-b1661fc2974f"
-repo = "git@github.com:ACEsuit/OrthPolys4ML.jl.git"
+repo = "https://github.com/ACEsuit/OrthPolys4ML.jl.git"
