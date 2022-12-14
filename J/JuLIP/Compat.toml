@@ -1,4 +1,4 @@
-[0]
+["0-0.13.7"]
 NeighbourLists = "0.5.0-*"
 
 ["0-0.8.11"]
@@ -16,7 +16,7 @@ ACEbase = "0.1.1-0.1"
 ["0.12.2-0.13.1"]
 ACEbase = "0.1.5-0.1"
 
-["0.13-0"]
+["0.13-0.13.7"]
 Interpolations = "0.13.4-*"
 
 ["0.13.2"]
@@ -24,6 +24,25 @@ ACEbase = "0.1.5-0.2"
 
 ["0.13.3-0"]
 ACEbase = "0.2"
+
+["0.13.8-0"]
+AlgebraicMultigrid = "0.5"
+Calculus = "0.5"
+CommonSubexpressions = "0.2-0.3"
+ExtXYZ = "0.1"
+ForwardDiff = "0.10"
+FunctionWrappers = "1"
+Interpolations = "0.13-0.14"
+JSON = "0.21"
+LineSearches = "7"
+MacroTools = "0.5"
+NeighbourLists = "0.5"
+OffsetArrays = "1"
+Optim = "1.7.0-1"
+Reexport = "1"
+Requires = "1"
+StaticArrays = "1"
+ZipFile = "0.10"
 
 ["0.8.12-0"]
 julia = "1"
