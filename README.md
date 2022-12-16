@@ -1,5 +1,7 @@
 # MolSim
 
+**This registry is now depricated and will soon be archived. For any ACE related packages, please switch to the** [**ACE registry**](https://github.com/ACEsuit/ACEregistry).
+
 A Julia Package Registry for packages related to molecular simulation.
 
 To install open a Julia REPL and type
